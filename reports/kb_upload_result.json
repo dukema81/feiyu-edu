@@ -1,0 +1,32 @@
+[
+  {
+    "file": "docs/feiyu_design_v1.docx",
+    "title": "飞育教育管理系统建设方案",
+    "code": 200,
+    "id": 412
+  },
+  {
+    "file": "docs/feiyu_api_v1.docx",
+    "title": "飞育教育管理系统 REST 接口契约",
+    "code": 200,
+    "id": 413
+  },
+  {
+    "file": "docs/feiyu_test_v1.docx",
+    "title": "飞育教育管理系统测试报告",
+    "code": 200,
+    "id": 414
+  },
+  {
+    "file": "docs/feiyu_manual_v1.docx",
+    "title": "飞育教育管理系统使用手册",
+    "code": 200,
+    "id": 415
+  },
+  {
+    "file": "demo/feiyu-edu-demo.zip",
+    "title": "飞育教育管理系统离线演示（DEMO）",
+    "code": 200,
+    "id": 416
+  }
+]
